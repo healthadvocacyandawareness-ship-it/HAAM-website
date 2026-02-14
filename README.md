@@ -1,2 +1,2 @@
-# HAAM-website
+HAAM-website
 Health advocacy and awareness 
